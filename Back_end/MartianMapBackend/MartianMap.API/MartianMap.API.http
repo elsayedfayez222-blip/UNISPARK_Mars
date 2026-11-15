@@ -1,0 +1,6 @@
+@MartianMap.API_HostAddress = http://localhost:5202
+
+GET {{MartianMap.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

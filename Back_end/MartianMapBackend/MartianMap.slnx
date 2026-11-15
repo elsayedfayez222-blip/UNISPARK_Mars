@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MartianMap.API/MartianMap.API.csproj" />
+  <Project Path="MartianMap.Tests/MartianMap.Tests.csproj" />
+</Solution>
